@@ -5,6 +5,7 @@
   
 | Parameters  |                  | Description |
 | ----------- | ---------------- | ----------- |
+| **keyword** | struct           |             |
 | *Datatype*  | **User-Defined** |             |
 | Members     | Heterogenous     |             |
 | Memory      | Contiguous       |             |
