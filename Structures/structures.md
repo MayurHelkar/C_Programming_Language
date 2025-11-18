@@ -3,18 +3,13 @@
 <summary>Definition</summary>
 <details>
   
-| Parameters  |                  | Description |
+| Topic  |                  | Description |
 | ----------- | ---------------- | ----------- |
-| **keyword** | `struct`           |             |
-| *Datatype*  | **User-Defined** |             |
-| Members     | Heterogenous     |             |
-| Memory      | Contiguous       |             |
-
-| Topic             | Description                                                          | Example                                     |
-| ----------------- | -------------------------------------------------------------------- | ------------------------------------------- |
-| Definition        | User-defined data type that groups variables of different data types | `struct Student{ int id; char name[20]; };` |
-| Need              | Store heterogeneous data, model real-world entities                  | Student record, Employee info               |
-| Structure Keyword | `struct`                                                             | —                                           |
-| Components        | Members (fields), Structure name, Variables                          | —                                           |
- Student{ int id; char name[20]; };
+| Components  | Members (fields),<br>Structure name,<br>Variables | |
+| **keyword** | `struct`         | Define - structure | 
+| *Datatype*  | **User-Defined** |             | 
+| Members<br>**Entity**     | Heterogenous<br>**Single**     |             | 
+| Memory      | Contiguous       |            |
+| Represent   | Real-world<br>Emtity | | 
+| Operators | **.** *Dot*<br>**->** *Arrow* | | 
 </details>
