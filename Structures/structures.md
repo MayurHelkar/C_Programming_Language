@@ -2,7 +2,9 @@
 
 <summary>Definition</summary>
 <details>
-| *Datatype*  | **User-Defined** | |
-| ----------- | ---------------- |
+| Parameters  |                  | Description |
+| ----------- | ---------------- | ----------- |
+| *Datatype*  | **User-Defined** |             |
+
 
 </details>
